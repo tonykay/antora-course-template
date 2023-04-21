@@ -1,20 +1,27 @@
-= Welcome to Template Tutorial
+= Automatic for the People
 :page-layout: home
 :!sectids:
+:guid: index
 
 [.text-center.strong]
-== Publish Services to Kubernetes
+== Automate the Enterprise Demo
 
-A Kubernetes tutorial to show how you can deploy a Java service to a Kubernetes cluster as it was a child game.
+An Automation Demonstration using a Hybrid Cloud deployment to show how Ansible Automation Platform 2 is the greatest thing since sliced bread.
 
 [.tiles.browse]
-== Browse modules
+== Steps
 
 [.tile]
-.xref:01-setup.adoc[Get Started]
-* xref:01-setup.adoc#minikube[Minikube]
+.xref:01-automate-demo.adoc[ATE]
+* xref:01-automate-demo.adoc#prerequisite[Setting the Scene]
+* xref:01-automate-demo.adoc#prerequisite[What we will do today]
+* xref:01-automate-demo.adoc#prerequisite[bar]
+
+////
+Sample code from repo - ignore
 
 [.tile]
 .xref:02-deploy.adoc[Deploying]
 * xref:02-deploy.adoc#package[Package the Application]
 * xref:02-deploy.adoc#deploy[Deploy the Application]
+////
