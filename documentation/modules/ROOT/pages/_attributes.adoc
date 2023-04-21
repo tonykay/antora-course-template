@@ -1,2 +1,14 @@
 :experimental:
 :source-highlighter: highlightjs
+
+:guid: attr-guid
+:cacert: -----BEGIN CERTIFICATE----- + \
+MMIIDMjCCAhqgAwIBAgIIIz2jXZ6NqjIwDQYJKoZIhvcNAQELBQAwNzESMBAGA1UE + \
+2IIDMjCCAhqgAwIBAgIIIz2jXZ6NqjIwDQYJKoZIAhvcNAQELBQAwNzESMBAGA1UE + \
+3IIDMjCCAhqgAwIBAgIIIz2jXZ6NqjIwDQYJKoZIAhvcNAQELBQAwNzESMBAGA1UE + \
+-----END CERTIFICATE-----
+
+:haiku: Write your docs in text, + \
+AsciiDoc makes it easy, + \
+Now get back to work!
+
